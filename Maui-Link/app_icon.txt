@@ -1,0 +1,19 @@
+📱 MAUI-Link Icon Concept
+========================
+
+Simple, modern icon design:
+- Phone/device silhouette
+- Link/connection lines
+- Clean, minimalist style
+- Dark theme compatible
+
+Alternative icon ideas:
+🔗 📱 💻 🔌 ⚡
+
+For actual implementation, you would need:
+1. .ico file for Windows
+2. .png files in various sizes (16x16, 32x32, 48x48, 256x256)
+3. High-resolution versions for modern displays
+
+The current design uses emoji icons in the UI which work well
+for the modern, professional look you requested.
