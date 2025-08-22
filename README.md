@@ -10,6 +10,18 @@ A focused Windows Forms application for Android device connectivity and port for
 4. **Configure MySQL** for external connections
 5. **Set up port forwarding** for MAUI debugging
 
+## 📸 Screenshots
+
+### Main Application Interface
+![MAUI-Link GUI](Maui-Link/Screenshot/Maui-GUI.png)
+
+*The main application window showing device management, port forwarding, and MySQL configuration features.*
+
+### Terminal Output
+![MAUI Terminal](Maui-Link/Screenshot/MAUI-Terminal.png)
+
+*Terminal output showing ADB commands and device connection status.*
+
 ## ✨ Features
 
 ### 🔗 Device Management

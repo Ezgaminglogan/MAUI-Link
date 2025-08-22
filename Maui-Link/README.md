@@ -2,6 +2,9 @@
 
 A focused Windows Forms application for Android device connectivity and port forwarding through ADB (Android Debug Bridge). MAUI-Link specializes in wireless ADB connections and reverse port forwarding for .NET MAUI development, making it easier to debug applications with local databases.
 
+![MAUI-Link Application Interface](Screenshot/Maui%20GUI.png)
+*Modern dark theme interface with intuitive controls and real-time device monitoring*
+
 ## 🚀 Quick Start
 
 1. **Enable USB Debugging** on your Android device
@@ -37,6 +40,9 @@ A focused Windows Forms application for Android device connectivity and port for
 - **Intuitive icons** - Emoji-based icons for easy recognition
 - **Responsive layout** - Clean, organized interface with proper spacing
 - **Visual feedback** - Color-coded buttons and status indicators
+
+![MAUI-Link Terminal Interface](Screenshot/MAUI%20Terminal.png)
+*Terminal-style interface showing ADB commands and device connectivity*
 
 ### 🔔 System Tray Integration
 - **Background operation** - Minimize to system tray for continuous monitoring
@@ -281,6 +287,9 @@ Maui-Link/
 ├── Maui-Link.vbproj           # Project file
 ├── Form1.vb                   # Main form code
 ├── Form1.Designer.vb          # UI design code
+├── Screenshot/                # Application screenshots
+│   ├── Maui GUI.png          # Main application interface
+│   └── MAUI Terminal.png     # Terminal interface view
 ├── ADBFolder/                 # ADB tools directory
 │   ├── adb.exe               # Android Debug Bridge executable
 │   ├── AdbWinApi.dll         # Windows API for ADB
